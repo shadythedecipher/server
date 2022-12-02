@@ -27,7 +27,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm ci
-    - run: npm run start
     
   push_to_Docker_Hub:
       # The type of runner that the job will run on

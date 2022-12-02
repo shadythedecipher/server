@@ -17,7 +17,7 @@
 // app.use(authRouter);
 // app.use(attendanceRouter);
 const df = "juma";
-console.log("jusdma");
+console.log("jusdmgdga");
 // mongoose
 //   .connect(DB)
 //   .then(() => {
